@@ -50,7 +50,7 @@ rules:
   metadata:
     category: security
     technology:
-    - gorm
+    - gorm1
     cwe:
     - "CWE-89: Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection')"
     owasp:
