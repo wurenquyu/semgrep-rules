@@ -1,5 +1,5 @@
 rules:
-  - id: exported_loop_pointer
+  - id: exported_loop_pointer1
     message: >-
       `$VALUE` is a loop pointer that may be exported from the loop. This pointer is
       shared between loop iterations, so the exported reference will always point to
