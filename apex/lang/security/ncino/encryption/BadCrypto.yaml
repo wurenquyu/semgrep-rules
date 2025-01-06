@@ -17,6 +17,7 @@ rules:
       - audit
       technology:
       - salesforce
+      - test1
       references:
       - https://cwe.mitre.org/data/definitions/321.html
     message: >-
