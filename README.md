@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/community%20slack-3.5k%20members-green?style=flat-square" alt="Join Semgrep community Slack" />
 </a>
 
-Welcome! This repository is the library for [Semgrep's](https://semgrep.dev/) Community Edition rules.
+Welcome! This repository contains [Semgrep's](https://semgrep.dev/) Community Edition rules.
 
 In addition to the rules in this repository, the [Semgrep Registry](https://semgrep.dev/explore) offers proprietary [Pro rules](https://semgrep.dev/products/semgrep-code/pro-rules) that offer additional language coverage, and unlock crossfile and deep dataflow analysis.
 
