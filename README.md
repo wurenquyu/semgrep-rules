@@ -7,7 +7,7 @@
 
 Welcome! This repository is the library for [Semgrep's](https://semgrep.dev/) Community Edition rules.
 
-In addition to the rules in this repository, the [Semgrep Registry](https://semgrep.dev/explore) offers proprietary [Pro rules](https://semgrep.dev/products/semgrep-code/pro-rules) that offer additional language coverage, and unlock crossfile and deep dataflow nalysis.
+In addition to the rules in this repository, the [Semgrep Registry](https://semgrep.dev/explore) offers proprietary [Pro rules](https://semgrep.dev/products/semgrep-code/pro-rules) that offer additional language coverage, and unlock crossfile and deep dataflow analysis.
 
 - Find rules: search for Community Edition and Pro rules through the [Semgrep registry search](https://semgrep.dev/r).
 - Use rules: Scan your code with these rules through [Semgrep AppSec Platform](https://semgrep.dev/login)
